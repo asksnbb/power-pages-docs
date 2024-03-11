@@ -32,9 +32,9 @@ To customize Bootstrap, you change the values of variables and then download a v
 
 The power of Bootstrap variables is that they define all the styles in the framework, not just one element. For example, the variable `@font-size-base` specifies the default size of text on your site&mdash;body text, headings, and all other text elements. An H1 heading might be defined as 300 percent of `@font-size-base`. By setting this one variable, you control the entire typographic scale of your website in a consistent way.
 
-You can create a custom version of Bootstrap [through the official Bootstrap site](https://getbootstrap.com) or use a third-party site that might offer an easier interface or predesigned themes. [The official Bootstrap customizer](https://getbootstrap.com/docs/5.2/customize/overview/) site has more information about Bootstrap customization.
+You can create a custom version of Bootstrap [through the official Bootstrap site](https://getbootstrap.com) or use a third-party site that might offer an easier interface or predesigned themes. [The official Bootstrap customizer](https://getbootstrap.com/docs/5.2/customize/overview/) site has more information about Bootstrap customization and [Bootstrap Admin templates](https://www.wrappixel.com/templates/category/bootstrap-admin-dashboard-template/).
 
-When you download a customized version of Bootstrap, it contains the following directory structure:
+When you download the customized version of Bootstrap, it contains the following directory structure:
 
 ```
 css/
